@@ -1,7 +1,5 @@
 # Satis'faction
 
-Vous allez découvrir le MVP de notre première semaine ! 
-
 Rappel du but de l'application : 
 Dans le cadre du B2B, permettre aux entreprises de suivre dans le temps la satisfaction de leurs clients afin de maximiser leur rétention client.
 
@@ -13,7 +11,6 @@ Pour tester toutes les fonctionnalités voici les étapes à suivre :
 - Grâce à nos nested forms, ajoutez des questions à l'enquête, supprimez en, enfin faites en ce que vous voulez !
 - Enfin, envoyez votre enquête à vos clients grâce à notre mailer ! 
 - Incoming : vous pourrez bientôt consultez les résultats dans un dashbaord
-
 
 
 ## Pour tester le projet en local : 
@@ -38,8 +35,7 @@ rails db:seed
 ATTENTION: comme mentioné dans le code, cette manipulation effacera le base de donnée existante. Cependant il est possible de ne pas effcaer la base de donnée existante et de simplement générer aléatoirement chaques objets a partir de d'IDs aléatoirement selectionés parmis ceux existants.
 
 
-
-### Tester le projet sur Heroku 
+### Le projet sur Heroku 
 
 * https://satisfaction-project.herokuapp.com/ - Satis'faction
 
